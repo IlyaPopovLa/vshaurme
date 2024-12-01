@@ -3,3 +3,6 @@ cat .gitignore
 /.idea
 /.vscode
 /.DS_Store
+.idea
+*idea
+*/.idea
