@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 /.idea
+=======
+cat .gitignore
+
+.idea
+>>>>>>> 1179d00dd62796a148fa3f3592a4fbe5060ffa69
